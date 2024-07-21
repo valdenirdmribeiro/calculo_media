@@ -1,1 +1,3 @@
 # calculo_media
+
+Script Ruby que calcula a média de um aluno e se o aluno foi aprovado ou não, o resultado é salvo em um arquivo externo...
